@@ -1,0 +1,11 @@
+/TagEditor/.vs
+/TagEditor/packages
+/TagEditor/TestSongs
+/TagEditor/ClassLibrary/obj
+/TagEditor/ClassLibrary/bin
+/TagEditor/LastFmApi/obj
+/TagEditor/LastFmApi/bin
+/TagEditor/ThirdPartyApi/bin
+/TagEditor/ThirdPartyApi/obj
+/TagEditor/WindowsFormsApplication/bin
+/TagEditor/WindowsFormsApplication/obj
